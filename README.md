@@ -1,2 +1,2 @@
 # xy
-is a test
+my collection
